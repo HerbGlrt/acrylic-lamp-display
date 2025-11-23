@@ -6,13 +6,21 @@ This project is a custom acrylic heart lamp made as a Christmas gift. It combine
 
 I built this as a Christmas present for my girlfriend. I was inspired by commercially available acrylic lamps but wanted a personal touch that highlights our best memories. I designed a custom heart-shaped acrylic panel in LightBurn with space to mount the TFT display and LEDs, then added features for portability and easy image updates (SD card) and powered it with a rechargeable 9V battery.
 
-## Highlights / final result
+## Highlights
 
 - Custom heart acrylic design with slots for a 1.8" TFT display and edge lighting.
 - 1.8" 128×160 TFT shows photos from an SD card in uncompressed BMP format.
 - Eight WS2812 (5050) RGB LED strips provide edge lighting. Each LED is driven by the average color of a corresponding image column for a pleasing, image-aware glow.
 - Powered by a rechargeable 9V battery for portability; controlled by an Arduino UNO.
 - Decorative rhinestones added to the heart corners for extra sparkle.
+
+## Final result
+https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0192.HEIC
+https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0207.HEIC
+https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0189.HEIC
+https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0204.HEIC
+https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0211.HEIC
+https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0212.HEIC
 
 ## Bill of materials
 
@@ -84,37 +92,9 @@ Note: exact wiring and code depend on the libraries you pick. The repo includes 
 3. Prepare images (see "Image preparation") and copy BMP files to SD card root.
 4. Insert SD, power up, and the Arduino should display images and light LEDs based on image colors.
 
-## Roadmap / possible improvements
-
-- Add a proper battery management circuit and charging port (safer and user-friendly).
-- Replace Arduino UNO with a smaller board (Pro Mini / Nano / ESP32) to reduce size and power consumption.
-- Add a simple UI (buttons or touch) to navigate images, change brightness, or select animations.
-- Add support for more LEDs and higher-fidelity color mapping (use more columns or interpolate colors).
-- Add automatic image scaling and cropping to handle arbitrary image sizes on-the-fly.
-- Add a real-time clock for scheduled photo changes or sleep timer.
-- Add Wi-Fi (ESP32) for remote uploading of images or OTA updates.
-
 ## Files and folders in this repository
 
 - `Code.ino` — Arduino sketch (main firmware). Review pin mapping and libraries in this file.
 - `LightBurn/` — LightBurn project files and DXF exports for the acrylic heart design.
-- `Images/` — (place your prepared BMP images here before copying to SD)
-- `Heart/` — (assets related to the heart design)
-- `README.md` — this file
-
-## Final notes
-
-The project succeeded in creating a personalized and portable acrylic lamp that shows photos and uses those photos to drive synchronized ambient lighting. Decorative rhinestones were added for extra flair. If you want, I can:
-
-- Add wiring diagrams or a simple schematic.
-- Add a wiring pin table extracted from `Code.ino`.
-- Convert these instructions into Portuguese or generate a printable build guide.
-
-If you'd like, tell me which of these additions you'd like next and I will: (a) generate wiring diagrams, (b) add usage screenshots, or (c) extract and document pin mappings from `Code.ino`.
-
----
-
-License: MIT (changeable on request)
-
-Credits: Project designed and built by the repository owner as a personal gift.
-
+- `Images/` — Images of the final projetc.
+- `README.md`
