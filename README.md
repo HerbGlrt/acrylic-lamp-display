@@ -18,12 +18,12 @@ I built this as a Christmas present for my girlfriend. I was inspired by commerc
 
 ## Final result
 
-<img src="Images/IMG_0192_small.jpg" width="300" />
-<img src="Images/IMG_0207_small.jpg" width="300" />
-<img src="Images/IMG_0189_small.jpg" width="300" />
-<img src="Images/IMG_0204_small.jpg" width="300" />
-<img src="Images/IMG_0211_small.jpg" width="300" />
-<img src="Images/IMG_0212_small.jpg" width="300" />
+<img src="Images/IMG_0192.jpg" width="300" />
+<img src="Images/IMG_0207.jpg" width="300" />
+<img src="Images/IMG_0189jpg" width="300" />
+<img src="Images/IMG_020jpg" width="300" />
+<img src="Images/IMG_0211.jpg" width="300" />
+<img src="Images/IMG_0212.jpg" width="300" />
 
 ## Bill of materials
 
