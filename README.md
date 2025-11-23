@@ -17,12 +17,12 @@ I built this as a Christmas present for my girlfriend. I was inspired by commerc
 ## Final result
 ## Final result
 
-![Lamp 1](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0192.HEIC?raw=1)
-![Lamp 2](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0207.HEIC?raw=1)
-![Lamp 3](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0189.HEIC?raw=1)
-![Lamp 4](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0204.HEIC?raw=1)
-![Lamp 5](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0211.HEIC?raw=1)
-![Lamp 6](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0212.HEIC?raw=1)
+![Lamp 1](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0192.PNG?raw=1)
+![Lamp 2](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0207.PNG?raw=1)
+![Lamp 3](https://github.com/HerbGlrt/acrylic--lamp-display/blob/main/Images/IMG_0189.PNG?raw=1)
+![Lamp 4](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0204.PNG?raw=1)
+![Lamp 5](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0211.PNG?raw=1)
+![Lamp 6](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0212.PNG?raw=1)
 
 ## Bill of materials
 
