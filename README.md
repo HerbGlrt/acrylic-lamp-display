@@ -14,16 +14,15 @@ I built this as a Christmas present for my girlfriend. I was inspired by commerc
 - Powered by a rechargeable 9V battery for portability; controlled by an Arduino UNO.
 - Decorative rhinestones added to the heart corners for extra sparkle.
 
-## Final result
 
 ## Final result
 
-<img src="Images/IMG_0192.png" width="300" />
-<img src="Images/IMG_0207.png" width="300" />
-<img src="Images/IMG_0189.png" width="300" />
-<img src="Images/IMG_020.png" width="300" />
-<img src="Images/IMG_0211.png" width="300" />
-<img src="Images/IMG_0212.png" width="300" />
+<img src="Images/IMG_0192.png" width="500" />
+<img src="Images/IMG_0207.png" width="500" />
+<img src="Images/IMG_0189.png" width="500" />
+<img src="Images/IMG_020.png" width="500" />
+<img src="Images/IMG_0211.png" width="500" />
+<img src="Images/IMG_0212.png" width="500" />
 
 ## Bill of materials
 
