@@ -15,12 +15,14 @@ I built this as a Christmas present for my girlfriend. I was inspired by commerc
 - Decorative rhinestones added to the heart corners for extra sparkle.
 
 ## Final result
-![Lamp 1](Images/IMG_0192.HEIC)
-![Lamp 2](Images/IMG_0207.HEIC)
-![Lamp 3](Images/IMG_0189.HEIC)
-![Lamp 4](Images/IMG_0204.HEIC)
-![Lamp 5](Images/IMG_0211.HEIC)
-![Lamp 6](Images/IMG_0212.HEIC)
+## Final result
+
+![Lamp 1](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0192.HEIC?raw=1)
+![Lamp 2](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0207.HEIC?raw=1)
+![Lamp 3](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0189.HEIC?raw=1)
+![Lamp 4](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0204.HEIC?raw=1)
+![Lamp 5](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0211.HEIC?raw=1)
+![Lamp 6](https://github.com/HerbGlrt/acrylic-lamp-display/blob/main/Images/IMG_0212.HEIC?raw=1)
 
 ## Bill of materials
 
